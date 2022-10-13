@@ -2,8 +2,6 @@
 
 # By Filiplain 
 # CVE-2022-40684
-# From Python to Bash
-
 # Fortinet Auth Bypass PoC
 
 # Usage: ./poc.sh ip
