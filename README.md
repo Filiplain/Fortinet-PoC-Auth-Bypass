@@ -1,5 +1,5 @@
 # Fortinet-PoC-Auth-Bypass
-Bash PoC for Fortinet Auth Bypass - CVE-2022-40684
+Bash Proof of Concept (PoC) for Fortinet Authentication Bypass - CVE-2022-40684
 
 # Usage:
 
